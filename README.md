@@ -1,16 +1,26 @@
 # Pedro Scaff
 
-**Software Engineer** | Brazilian | pedro@scaff.me | Living in Berlin
+**Software Engineer** | Bachelor of Engineering | Brazilian / German | pedro@scaff.me | Living in Berlin
 
 ## About me
 
-I'm a full stack engineer with a broad range of skills. I can work with different technologies and learn fast. I have experience working with high quality standards and agile teams. I like setting up processes and helping teams work better and be more productive. I highly value a healthy and happy work environment.
+I'm a backend focused software generalist with a broad range of skills. I can work with different technologies and learn fast. I have experience working with high quality standards and agile teams. I like setting up processes and helping teams work better and be more productive. I highly value a healthy and happy work environment.
 
-I'm currently working as a software engineer at [Vay](https://vay.io). I'm the main responsible for the user interface that is used to remotely drive a car. I work both on the web app and on the embedded C++ part of the software. I setup the CI/CD for the web application and API including deployment to the cloud.
+I'm currently working as a software engineer at [Vay](https://vay.io). I work in a team of four backend engineers developing a ride-hailing platform. We have been developing a distributed system with Golang and Kafka to fulfill diverse requirements, not only from the core service (delivering a vehicle to a customer), but also to manage the fleet status and develop tools for operations.
 
 ## Experience
 
-#### Embedded Software Engineer at Vay | May 2020 - Current
+#### Backend Engineer at Vay | Sep 2022 - Current
+
+- Backend development of on-demand ride-hailing platform
+- Distributed backend in Golang with Kafka
+- Data schemas using protobuf
+- Infrastructure with AWS using Terraform
+- Development of operations dashboards with Appsmith
+
+---
+
+#### Embedded Software Engineer at Vay | May 2020 - Sep 2022
 
 - Development of real-time, low-latency application built using ROS and CEF running on Linux
 - Lit Element/Redux/ThreeJS for Javascript WebApp
@@ -51,19 +61,20 @@ I'm currently working as a software engineer at [Vay](https://vay.io). I'm the m
 
 #### Private language teacher (german) | July 2012 – July 2013
 
-## Education
-
-#### HTW Berlin - University of Applied Sciences | 2014 - 2017
-- Computer Engineering, Bachelor
-
 ## Skills
 
 - Javascript / Typescript
+- Golang
 - NodeJS
 - AWS
 - Terraform
 - Rust
 - C++
+
+## Education
+
+#### HTW Berlin - University of Applied Sciences | 2014 - 2017
+- Computer Engineering, Bachelor
 
 ## Languages
 
