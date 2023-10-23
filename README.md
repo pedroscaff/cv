@@ -10,7 +10,9 @@ I'm currently working as a software engineer at [Vay](https://vay.io). I work in
 
 ## Experience
 
-#### Backend Engineer at Vay | Sep 2022 - Current
+#### Vay | May 2020 - Current
+
+##### Backend Engineer | Sep 2022 - Current
 
 - Backend development of on-demand ride-hailing platform
 - Distributed backend in Golang with Kafka
@@ -18,9 +20,7 @@ I'm currently working as a software engineer at [Vay](https://vay.io). I work in
 - Infrastructure with AWS using Terraform
 - Development of operations dashboards with Appsmith
 
----
-
-#### Embedded Software Engineer at Vay | May 2020 - Sep 2022
+##### Embedded Software Engineer | May 2020 - Sep 2022
 
 - Development of real-time, low-latency application built using ROS and CEF running on Linux
 - Lit Element/Redux/ThreeJS for Javascript WebApp
@@ -44,14 +44,14 @@ I'm currently working as a software engineer at [Vay](https://vay.io). I work in
 
 ---
 
-#### Software Engineer at HERE Technologies | November 2017 – September 2018
+#### HERE Technologies | January 2015 - September 2018
+
+##### Software Engineer | November 2017 – September 2018
 
 - Frontend development of WebApps featuring 2D and 3D visualizations
 - Node.js development of APIs tools and pipelines
 
----
-
-#### Working student as a QA Engineer at HERE Technologies | January 2015 – October 2017
+##### Working student as a QA Engineer | January 2015 – October 2017
 
 - Automation of functional tests for JS library and WebApp
 - Manual testing of JS library API and WebApp
