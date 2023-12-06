@@ -10,9 +10,9 @@ I'm currently working as a software engineer at [Vay](https://vay.io). I work in
 
 ## Experience
 
-#### Vay | May 2020 - Current
+#### Vay | May 2020 - Nov 2023
 
-##### Backend Engineer | Sep 2022 - Current
+##### Backend Engineer | Sep 2022 - Nov 2023
 
 - Backend development of on-demand ride-hailing platform
 - Distributed backend in Golang with Kafka
