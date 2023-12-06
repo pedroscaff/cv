@@ -6,7 +6,7 @@
 
 I'm a backend focused software generalist with a broad range of skills. I can work with different technologies and learn fast. I have experience working with high quality standards and agile teams. I like setting up processes and helping teams work better and be more productive. I highly value a healthy and happy work environment.
 
-I'm currently working as a software engineer at [Vay](https://vay.io). I work in a team of four backend engineers developing a ride-hailing platform. We have been developing a distributed system with Golang and Kafka to fulfill diverse requirements, not only from the core service (delivering a vehicle to a customer), but also to manage the fleet status and develop tools for operations.
+My last job was as a software engineer at [Vay](https://vay.io). I worked in a team of four backend engineers developing a ride-hailing platform. We developed a distributed system with Golang and Kafka to fulfill diverse requirements, not only from the core service (delivering a vehicle to a customer), but also to manage the fleet status and develop tools for operations.
 
 ## Experience
 
