@@ -6,9 +6,18 @@
 
 I'm a backend focused software generalist with a broad range of skills. I can work with different technologies and learn fast. I have experience working with high quality standards and agile teams. I like setting up processes and helping teams work better and be more productive. I highly value a healthy and happy work environment.
 
-My last job was as a software engineer at [Vay](https://vay.io). I worked in a team of four backend engineers developing a ride-hailing platform. We developed a distributed system with Golang and Kafka to fulfill diverse requirements, not only from the core service (delivering a vehicle to a customer), but also to manage the fleet status and develop tools for operations.
+My current job is as a software engineer at [Exasol](https://www.exasol.com/). My team works on the development of a [SaaS platform](https://cloud.exasol.com/) to allow Exasol clients to create and manage their Exasol databases on-demand. I work closely with frontend engineers to develop the APIs and integrate the features in a concise way for customers. I helped the team implement software engineering best practices both at a process level, like writing Architecture decision records (ADRs), and at the code level to adhere to Golang standards.
 
 ## Experience
+
+#### Software Engineer at Exasol | Feb 2023 - Current
+
+- Backend development of API for [SaaS platform](https://cloud.exasol.com/)
+- Setting up software engineering best practices for the team
+- Backend in Golang with AWS Lambdas, SQS and EC2
+- Infrastructure with AWS using Terraform and Serverless
+
+---
 
 #### Vay | May 2020 - Nov 2023
 
