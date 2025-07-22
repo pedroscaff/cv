@@ -1,16 +1,25 @@
 # Pedro Scaff
 
-**Software Engineer** | Bachelor of Engineering | Brazilian / German | pedro@scaff.me | Living in Berlin
+**Software Engineer** | Bachelor of Engineering | Brazilian / German | <pedro@scaff.me> | Living in Berlin
 
 ## About me
 
 I'm a backend focused software generalist with a broad range of skills. I can work with different technologies and learn fast. I have experience working with high quality standards and agile teams. I like setting up processes and helping teams work better and be more productive. I highly value a healthy and happy work environment.
 
-My current job is as a software engineer at [Exasol](https://www.exasol.com/). My team works on the development of a [SaaS platform](https://cloud.exasol.com/) to allow Exasol clients to create and manage their Exasol databases on-demand. I work closely with frontend engineers to develop the APIs and integrate the features in a concise way for customers. I helped the team implement software engineering best practices both at a process level, like writing Architecture decision records (ADRs), and at the code level to adhere to Golang standards.
+My current job is as a software engineer at [Sanctuary Computer](https://www.sanctuary.computer/). My team works on the development of the OS and backend services for the [Light Phone](https://www.thelightphone.com/) (LP). We work closely with the LP founders to develop new features and handle technical debt. I joined 5 months before the launch of the Light Phone III, the most ambitious project both Sanctuary Computer and Light have ever done. We managed to successfully launch the phone in Feb/2025 with great feedback from the specialized media and the LP community. Since joining I helped the team further develop software engineering best practices such as using proper QA tools and to constantly refactor code to simplify and speed up development.
 
 ## Experience
 
-#### Software Engineer at Exasol | Feb 2023 - Current
+#### Software Engineer at Sanctuary Computer / The Light Phone | Sep 2024 - current
+
+- Development of the OS for the [Light Phone III](https://www.thelightphone.com/)
+- react-native and Android (Java) native development
+- Backend development with Elixir
+- Maintenance and further development for the Light Phone II
+
+---
+
+#### Software Engineer at Exasol | Feb 2024 - Aug 2024
 
 - Backend development of API for [SaaS platform](https://cloud.exasol.com/)
 - Setting up software engineering best practices for the team
@@ -78,11 +87,12 @@ My current job is as a software engineer at [Exasol](https://www.exasol.com/). M
 - AWS
 - Terraform
 - Rust
-- C++
+- Elixir
 
 ## Education
 
 #### HTW Berlin - University of Applied Sciences | 2014 - 2017
+
 - Computer Engineering, Bachelor
 
 ## Languages
